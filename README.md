@@ -1,2 +1,1 @@
-### CoheterosUS
-This is the Github organization of CoheterosUS
+Configuration files for the CoheterosUS Github organization
